@@ -24,7 +24,7 @@ p{
 .vorodo{
 	color: #202124;
 	background-color: #bfefff;
-	font-size: 30px;
+	font-size: 200%;
 	text-align: center;
 	font-family: Perpetua;
 	border: 4px solid goldenrod;
@@ -38,7 +38,7 @@ p{
 .vorod{
 	color: #202124;
 	background-color: #bfefff;
-	font-size: 30px;
+	font-size: 200%;
 	text-align: center;
 	font-family: Perpetua;
 	border: 4px solid goldenrod;
